@@ -1,1 +1,2 @@
 Windows Vista has a interesting operating function for the organization and viewing of windows. The window appears similar to that of MAC OSX. The Minimize, Maximize, and Close buttons were made more sleek and reduced in their sizes. There are more keyboard commands and more possiblities to cascade windows and move them to different areas of the screen.
+Windows Vista has a way to manage your photos using a new photo gallery. The gallery can modify photos sort of like photoshop. The gallery can also preview movie files.
